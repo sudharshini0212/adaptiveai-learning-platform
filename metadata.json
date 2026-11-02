@@ -1,0 +1,6 @@
+{
+  "name": "AdaptiveAI - Personalized Student Learning Platform",
+  "description": "AI-powered adaptive learning ecosystem that builds personalized study paths around student syllabus, uploaded notes, weaknesses, and performance.",
+  "requestFramePermissions": ["camera"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
